@@ -1,0 +1,8 @@
+name: mp3player
+version: '1.0.0'
+main: com.nico.mp3player.Mp3player
+api-version: '1.21'
+commands:
+  givejukebox:
+    description: Gibt eine Custom Jukebox
+    usage: /givejukebox
